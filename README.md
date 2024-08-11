@@ -45,7 +45,7 @@ So that I can identify key sales trends, top customers, sales performance by rep
 |-----------|-------------|
 | Excel     | Exploring the data, Visualizing the data via interactive dashboards |
 | GitHub    | Hosting the project documentation and version control              |
-
+|Power Bi| Visualizing the data via interactive dashboards |
 
 
 
